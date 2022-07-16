@@ -6,6 +6,6 @@ Credits go to Junior_Djjr for his great and complete scripting tutorials and the
 Visit his website at: https://forum.mixmods.com.br
 
 feel free to do whatever you want with the source codes, I don't mind
-P.S. I'm an amateur when it comes to coding
+(P.S. I'm an amateur when it comes to coding)
 
 have a nice day :)
